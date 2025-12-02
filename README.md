@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hola 👋
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css " />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,r,springboot,maven," />
   </a>
 </p>
 
