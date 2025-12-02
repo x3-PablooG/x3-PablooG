@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css " />
+  </a>
+</p>
+
 <!--
 **x3-PablooG/x3-PablooG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
