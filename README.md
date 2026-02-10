@@ -6,7 +6,10 @@
   </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x3-PablooG&show_icons=true&theme=radical)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x3-PablooG&theme=github_dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=x3-PablooG&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=x3-PablooG&theme=dark&hide_border=true)
+
 <!--
 **x3-PablooG/x3-PablooG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
