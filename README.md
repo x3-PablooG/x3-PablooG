@@ -6,6 +6,7 @@
   </a>
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x3-PablooG&show_icons=true&theme=radical)
 <!--
 **x3-PablooG/x3-PablooG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
