@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,discord,eclipse,postman,octave " />
+    <img src="https://skillicons.dev/icons?i=vscode,discord,eclipse,postman,octave,blender " />
   </a>
 </p>
 
